@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NetCoreAI_Project_20_RecipeSuggestionWithOpenAI.props" />
+</Project>
